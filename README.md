@@ -1,6 +1,6 @@
 # Fabrice PAKA
 
-**`Artisant du numerique(Data scientist/Data analyst/Physicien/Enseignant)`**
+**`Artisant du numerique(Data scientist/Data analyst/Physicien/Enseignant)`**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 
