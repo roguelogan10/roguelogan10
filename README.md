@@ -2,6 +2,10 @@
 
 **`Artisant du numerique(Data scientist/Data analyst/Physicien/Enseignant)`**
 
+- Coding Vibe
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
+
 Physicien de formation avec un fort intérêt pour le numérique, j’ai naturellement orienté mon parcours vers les sciences des données, une discipline à la croisée des mathématiques et de l’informatique. Passionné par l’exploitation de la puissance des données pour résoudre des problématiques concrètes en entreprise, je m’investis pleinement dans cet univers.
 Dans le cadre de mon objectif de devenir data scientist, je me forme activement à travers des bootcamps, des formations en alternance, ainsi que par l’écoute de podcasts spécialisés. Je partage également mon apprentissage en documentant et publiant la plupart des projets que je réalise sur ce GitHub.
 
